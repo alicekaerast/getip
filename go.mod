@@ -3,7 +3,7 @@ module github.com/alicekaerast/getip
 go 1.18
 
 require (
-	github.com/aws/aws-sdk-go v1.44.90
+	github.com/aws/aws-sdk-go v1.44.94
 	github.com/urfave/cli/v2 v2.14.0
 )
 
